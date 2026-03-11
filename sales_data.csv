@@ -1,0 +1,10 @@
+Product,Region,Sales,Month
+Laptop,North,5000,Jan
+Mobile,South,3000,Jan
+Tablet,West,2000,Jan
+Laptop,North,6000,Feb
+Mobile,South,3500,Feb
+Tablet,West,2500,Feb
+Laptop,North,7000,Mar
+Mobile,South,4000,Mar
+Tablet,West,3000,Mar
